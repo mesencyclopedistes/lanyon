@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clavier Hélicoïdal
+title: 15 - Clavier Hélicoïdal
 extra_css: clavierhelico.css
 ---
 

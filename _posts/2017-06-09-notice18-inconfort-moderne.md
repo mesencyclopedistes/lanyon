@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inconfort Moderne
+title: 18 - Inconfort Moderne
 extra_css: inconfort-moderne.css
 
 ---

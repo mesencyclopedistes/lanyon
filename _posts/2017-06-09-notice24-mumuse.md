@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mumuse
+title: 24 - Mumuse
 extra_css: mumuse.css
 ---
 

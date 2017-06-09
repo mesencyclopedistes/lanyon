@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Et pourtant Georges bataille
+title: 09 - Et pourtant Georges bataille
 extra_css: etpourtantgeorges.css
 ---
 

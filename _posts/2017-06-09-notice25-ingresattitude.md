@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ingres Attitude
+title: 25 - Ingres Attitude
 extra_css: ingresattitude.css
 
 ---

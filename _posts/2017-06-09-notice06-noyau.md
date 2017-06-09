@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Noyau
+title: 06 - Noyau
 extra_css: noyau.css
 ---
 Noyau (statistiques) sur <a href="https://fr.wikipedia.org/wiki/Noyau_(statistiques)">Wikipedia</a>

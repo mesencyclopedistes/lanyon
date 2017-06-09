@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Méta-Slam
+title: 10 - Méta-Slam
 extra_css: metaslam.css
 ---
 

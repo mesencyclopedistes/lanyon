@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rhizome
+title: 08 - Rhizome
 extra_css: rhizome.css
 ---
 
