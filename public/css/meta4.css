@@ -7,10 +7,39 @@ body {
 
 .masthead-title {
 	/* main-title */
-	background:white;
+	/* background:white; */ 
 	padding:5px;
+	font-weight:bolder;
+	}
+
+.masthead-title small {
+	display:block;
 	}
 
 .page-title, .post-title, .post-title a {
     font-weight:bold;
+    color:#268bd2 !important;
+	}
+
+.post-title a {
+	background:white;
+	text-decoration:underline;
+	}
+
+p a {
+	color:#515151;
+	border-bottom:1px dotted;
+	}
+
+.related {
+	display:none;
+	}
+
+.container .post {
+	border-top:1px solid;
+	padding-top:80px;
+	}
+
+.post .post-date {
+	font-size:50%;
 	}
