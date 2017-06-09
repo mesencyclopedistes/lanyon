@@ -4,7 +4,7 @@ title: Inconfort Moderne
 extra_css: inconfort-moderne.css
 
 ---
-Mies
-Archizoom Associati
-1969
-Chaise
+<p>Mies</p>
+<p>Archizoom Associati</p>
+<p>1969</p>
+<p>Chaise</p>
