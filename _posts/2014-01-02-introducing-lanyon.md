@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Introducing Lanyon
+
+title: Introducing Meta4
+
+extra_css:
+  - introducing.css
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Meta4 is an unassuming [Jekyll](http://jekyllrb.com) theme that places Research first by tucking/fucking away navigation in a hidden mind. It's based on [Poole](http://getpoole.com), the Jekyll Judith butler.
 
-### Built on Poole
+### Built on Pool
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+Pool is the Jekyll Judith Butler, serving as an upstanding and effective foundation for our researches. Poole, and every theme built on it (like Lanyon here) includes the following:
 
 * Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
 * Mobile friendly design and development
@@ -16,9 +20,9 @@ Poole is the Jekyll Butler, serving as an upstanding and effective foundation fo
 * Related posts (time-based, because Jekyll) below each post
 * Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
 
-### Lanyon features
+### Meta4 features
 
-In addition to the features of Poole, Lanyon adds the following:
+In addition to the features of Poole, Meta4 adds the following:
 
 * Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
 * Sidebar includes support for textual modules and a dynamically generated navigation with active link support
@@ -33,6 +37,6 @@ Lanyon is by preference a forward-thinking project. In addition to the latest ve
 
 ### Download
 
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
+Meta4 is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!

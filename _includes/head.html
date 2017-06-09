@@ -20,6 +20,13 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/lanyon.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
 
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/meta4.css">
+
+  {% for css_name in page.extra_css %}
+    <link rel="stylesheet" href="{{ css_name }}">
+  {% endfor %}
+
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
