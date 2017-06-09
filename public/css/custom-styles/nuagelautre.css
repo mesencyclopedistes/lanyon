@@ -1,0 +1,11 @@
+body {
+	background:#afeeee;
+	}
+
+html {
+	border:50px double blue;
+}
+
+.post img {
+	border-radius:200px;
+}

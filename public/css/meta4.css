@@ -43,13 +43,24 @@ p a {
 	}
 
 .container .post {
-	border-top:1px dashed #999;
-	padding-top:80px;
+	/* border-top:1px dashed #999;
+	padding-top:80px; */
+	margin:0;
 	}
 
 .post .post-date {
 	font-size:60%;
 	}
+
+.container .post * {
+	display:none;
+	}
+
+.container .post h1,
+.container .post h1 a {
+	display:inline-block;
+	}
+
 
 .post img {
 	width:100%;
