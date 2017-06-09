@@ -1,13 +1,27 @@
-body {
-	background-image:url('https://image.freepik.com/free-photo/black-dots-on-white-background_2490529.jpg')
-	background-size:cover;
+body { 
+	background-image:url('https://image.freepik.com/free-photo/black-dots-on-white-background_2490529.jpg');
+	background-size:400%;
+	animation: pulse 5s infinite;
 	}
 
-p, span, ul, h1, h2, h3, h4, h5 {
-	background:white;
-	color:000;
+p, span, ul, h1, h2, h3, h4, h5, a, span {
+	color:#000 !important;
+	font-weight:bolder;
+	font-size:120%;
 	}
 
 h3 {
 	background:none;
+}
+
+@keyframes pulse {
+  0% {
+    opacity:1;
+  }
+  50% {
+    opacity:0;
+  }
+  100% {
+    opacity:0;
+  }
 }
