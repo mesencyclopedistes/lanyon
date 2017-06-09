@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 - Fixer l'instable
+title: 03 - Fixer l'instable
 extra_css: fixerlinstable.css
 ---
 
