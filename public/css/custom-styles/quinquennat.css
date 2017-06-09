@@ -1,0 +1,12 @@
+
+
+html {
+	border:55px dotted blue;
+	background:red;
+	}
+
+p, span, ul, h1, h2, h3, h4, h5 {
+	font-size:5vw;
+	border:5px;
+	color:white;
+	}

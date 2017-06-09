@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+
 body {
-  background:yellow;
-}
+	font-family:'Noto Serif', serif;
+  	background:#eee;
+	}
+
+.masthead-title {
+	/* main-title */
+	background:white;
+	padding:5px;
+	}
+
+.page-title, .post-title, .post-title a {
+    font-weight:bold;
+	}

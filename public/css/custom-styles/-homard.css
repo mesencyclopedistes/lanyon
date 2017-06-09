@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+body {
+	background-image:url('https://us.123rf.com/450wm/alextanya123rf/alextanya123rf1404/alextanya123rf140400245/27325265-seamless-abstract-vector-pattern-with-geometric-lobsters-isolated-on-white-background.jpg?ver=6')
+	
+	}
+
+p, span, ul, h1, h2, h3, h4, h5 {
+	padding:10px;
+	background:white;
+	font-family:'Lobster';
+	opacity:0.8;
+}
