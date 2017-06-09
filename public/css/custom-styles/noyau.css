@@ -1,7 +1,7 @@
 body { 
 	background-image:url('https://image.freepik.com/free-photo/black-dots-on-white-background_2490529.jpg');
 	background-size:400%;
-	animation: pulse 5s infinite;
+	animation: pulse 2s infinite;
 	}
 
 p, span, ul, h1, h2, h3, h4, h5, a, span {
