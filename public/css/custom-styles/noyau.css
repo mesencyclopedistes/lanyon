@@ -1,0 +1,13 @@
+body {
+	background-image:url('https://image.freepik.com/free-photo/black-dots-on-white-background_2490529.jpg')
+	background-size:cover;
+	}
+
+p, span, ul, h1, h2, h3, h4, h5 {
+	background:white;
+	color:000;
+	}
+
+h3 {
+	background:none;
+}

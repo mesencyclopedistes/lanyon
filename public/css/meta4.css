@@ -5,15 +5,22 @@ body {
   	background:#eee;
 	}
 
+.sidebar-toggle {
+	display:none;
+	}
+
 .masthead-title {
 	/* main-title */
 	/* background:white; */ 
 	padding:5px;
 	font-weight:bolder;
+	font-size:250%;
+	text-align:center;
 	}
 
 .masthead-title small {
 	display:block;
+	font-size:50%;
 	}
 
 .page-title, .post-title, .post-title a {
@@ -36,12 +43,12 @@ p a {
 	}
 
 .container .post {
-	border-top:1px solid;
+	border-top:1px dashed #999;
 	padding-top:80px;
 	}
 
 .post .post-date {
-	font-size:50%;
+	font-size:60%;
 	}
 
 .post img {
