@@ -3,24 +3,39 @@
 body {
 	font-family:'Noto Serif', serif;
   	background:#eee;
+  	padding-bottom:100px;
 	}
 
 .sidebar-toggle {
 	display:none;
 	}
 
+.masthead {
+	transform:rotate(-10deg);
+	left:-10px;
+	}
+
 .masthead-title {
 	/* main-title */
 	/* background:white; */ 
 	padding:5px;
-	font-weight:bolder;
-	font-size:250%;
-	text-align:center;
+	font-weight:900;
+	font-size:1.8em;
+	font-variant:small-caps;
+	text-transform:lowercase;
+	letter-spacing:0.005em;
 	}
 
 .masthead-title small {
 	display:block;
-	font-size:50%;
+	font-size:0.8em;
+	font-variant:normal;
+	}
+
+.masthead-title,
+.masthead-title small {
+	color:#555;
+	font-weight:700;
 	}
 
 .page-title, .post-title, .post-title a {
@@ -42,6 +57,10 @@ p a {
 	display:none;
 	}
 
+.pagination {
+	display:none;
+	}
+
 .container .post {
 	/* border-top:1px dashed #999;
 	padding-top:80px; */
@@ -52,13 +71,17 @@ p a {
 	font-size:60%;
 	}
 
-.container .post * {
+.container .post.home * {
 	display:none;
 	}
 
-.container .post h1,
-.container .post h1 a {
+.container .post.home h1,
+.container .post.home h1 a {
 	display:inline-block;
+	}
+
+.container .post h1 {
+	font-size:1.4em;
 	}
 
 
