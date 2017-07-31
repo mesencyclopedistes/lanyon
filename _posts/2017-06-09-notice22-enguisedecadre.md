@@ -1,9 +1,0 @@
----
-layout: post
-title: 22 - En guise de cadre
-extra_css: enguisedecadre.css
----
-
-> « En tant que réalité naturelle, chaque chose n’est en effet que le théâtre du passage ininterrompu des flux d’énergies et de substances, il ne s’explique que par ce qui précède et n’a de sens qu’en tant qu’élément du l’ensemble du processus naturel. L’essence de l’oeuvre d’art est au contraire d’être un tout pour elle-même, qui se passe de toute relation à un dehors et renoue en son centre chacun des fils qu’elle a déroulés. En étant ce que ne peut être par ailleurs que l’âme, ou bien le monde dans sa totalité — à savoir une unité faite de particularités —, l’oeuvre d’art, comme un monde pour soi, s’isole de tout ce qui lui est extérieur. Ses limites signifient dès lors tout autre chose que ce que l’on entend par ce terme en parlant d’une chose naturelle : pour celle-ci, elles ne sont que le lieu d’une perpétuelle exosmose et endosmose avec tout ce qui est au-delà, tandis qu’elles constituent pour l’oeuvre d’art une clôture absolue, qui d’un seul geste met à distance un extérieur auquel elle est indifférente, et produit une concentration intérieure dans laquelle se réalise son unité. » L’oeuvre d’art comme unité close, qui s’éloigne de l’extérieur — qui ferme ses frontières pour être auto-suffisante. Qu’en est-il du livre ? Le cadre sert l’oeuvre d’art en ce qu’il symbolise et renforce cette double fonction de sa limite. Il exclut de l’oeuvre d’art le monde alentour et donc aussi le spectateur, contribuant ainsi à la placer dans la distance qui seule la rend appréciable d’un point de vue esthétique. La distance à laquelle nous maintient un être signifie, dans le domaine de l’âme, l’unité de cet être pour lui-même. » 
- 
-Simmel, Georg. <em>Le Cadre et autres essais</em>. Traduit de l’Allemand par Karine Winkelvoss. Paris : Le Promeneur, 2003, p. 29-30.

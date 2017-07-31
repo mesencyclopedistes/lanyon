@@ -10,5 +10,10 @@ extra_css: rhizome.css
  
  
 <a href="https://www.youtube.com/watch?v=I8Qu7_unkg4">Avez vu D&eacute;ja Vu ! Un crime passionnel au pays des toupoutous</a>
+
+<img src="/img/17.crime-passionnel.png"/>
  
+ <img src="/img/17.imposteur.png"/>
+
+ <img src="/img/17.nouveau venu.png"/>
  
