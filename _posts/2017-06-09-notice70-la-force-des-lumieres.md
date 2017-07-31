@@ -1,0 +1,11 @@
+---
+layout: post
+title: 70 - La force des lumières
+---
+
+<a href="http://www.starwars-holonet.com/encyclopedie/technologie-lumiere-force.html">Source</a>
+<p>
+La Lumière de la Force était une technique de haut niveau utilisant le pouvoir pur du Côté Lumineux pour vaincre les manifestations du Côté Obscur.</p>
+<p>
+L'histoire des <a href="http://www.starwars-holonet.com/encyclopedie/organisation-jedi.html">Jedi</a> et des <a href="http://www.starwars-holonet.com/encyclopedie/organisation-sith.html">Sith</a> était émaillée par les conflits entre les défenseurs du <a href="http://www.starwars-holonet.com/encyclopedie/force-2.html">Côté Lumineux</a> et les hérauts du Côté Obscur, dont firent bien souvent les frais les habitants de la <a href="http://www.starwars-holonet.com/encyclopedie/lieu-galaxie.html">galaxie</a>. Dans ce contexte, l'un des pouvoirs les plus puissants dont pouvaient disposer les héritiers de la tradition d'<a href="http://www.starwars-holonet.com/encyclopedie/force-6.html">Ashla</a> sur <a href="http://www.starwars-holonet.com/encyclopedie/planete-tython.html">Tython</a> était sans nul doute la lumière de Force. 
+Comme son nom l'indique, il s'agissait d'une technique consistant en la création d'une lumière aveuglante directement puisée dans le pouvoir brut du Côté Lumineux. Moins spectaculaire que la <a href="http://www.starwars-holonet.com/encyclopedie/technologie-manipulation-environnement.html">manipulation de l'environnement</a> ou qu'une démonstration de <a href="http://www.starwars-holonet.com/encyclopedie/technologie-telekinesie.html">télékinésie</a>, cette capacité n'en était pas moins la preuve d'une grande maîtrise. On ignore s'il fallait puiser dans la <a href="http://www.starwars-holonet.com/encyclopedie/force-5.html">Force Vivante</a> ou la <a href="http://www.starwars-holonet.com/encyclopedie/force-4.html">Force Unificatrice</a> pour s'en servir, bien que les témoignages soulignant l'intensité de l'énergie dans les cellules et ses effets sur la matière orientent vers la première possibilité.</p> 
