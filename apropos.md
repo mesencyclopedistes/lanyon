@@ -5,6 +5,7 @@ title: À propos
 
 
   Bonjour à tous ! Vous êtes sur la page des mésencyclopédistes. Nous sommes :
+  * <strong>Jérôme Cabot</strong>, docteur en Littérature française, enseignant-chercheur, slameur ;
   * <strong>Irène Dunyach</strong>, docteure en Design, enseignante, designer graphique ; 
   * <strong>Brice Genre</strong>, docteur en Design, enseignant-chercheur, designer ;
   * <strong>Anthony Masure</strong>, docteur en Design, enseignant-chercheur, designer graphique ; 
