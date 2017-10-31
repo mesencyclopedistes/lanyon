@@ -13,7 +13,7 @@ title: À propos
   * <strong>Pia Pandelakis</strong>, docteur en Études Cinématographiques, enseignant-chercheur, designer graphique.
 
 
-En juin 2017, nous avons proposé lors du séminaire META 4 de notre laboratoire de recherche (LLA-CRÉATIS, Université Toulouse - Jean Jaurès) un protocole de réalisation d'un encyclopédie, lors d'un sprint d'écriture et de création web.
+En juin 2017, nous avons proposé lors du séminaire META 4 de notre laboratoire de recherche (LLA-CRÉATIS, Université Toulouse - Jean Jaurès) un protocole de réalisation d'une encyclopédie, lors d'un sprint d'écriture et de création web.
 
 Ce projet a été amorcé lors de cette journée questionnant les genres, à la fois comme éléments de la connaissance, et comme catégories genrées, politiques (notion de <em>gender</em> en anglais).
 Il est alimenté en continu et servira à suivre la progression du projet META 4, ainsi qu'à générer lui-même des pistes de recherche et de réfléxion.
