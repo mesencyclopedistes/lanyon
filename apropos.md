@@ -10,7 +10,7 @@ title: À propos
   * <strong>Brice Genre</strong>, docteur en Design, enseignant-chercheur, designer ;
   * <strong>Anthony Masure</strong>, docteur en Design, enseignant-chercheur, designer graphique ; 
   * <strong>Carole Nosella</strong>, docteure en Arts Plastiques, enseignante-chercheuse, artiste ; 
-  * <strong>Pia Pandelakis</strong>, docteur en Études Cinématographiques, enseignant-chercheur, designer graphique.
+  * <strong>Pia Pandelakis</strong>, docteur&#42;e en Études Cinématographiques, enseignant&#42;e-chercheur&#42;e, designer graphique.
 
 
 En juin 2017, nous avons proposé lors du séminaire META 4 de notre laboratoire de recherche (LLA-CRÉATIS, Université Toulouse - Jean Jaurès) un protocole de réalisation d'une encyclopédie, lors d'un sprint d'écriture et de création web.
